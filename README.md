@@ -35,4 +35,4 @@ The purpose of this project is to practice data analysis and create an interacti
 
 
 ## Dashboard Preview
-[Tableau Dashboard](Screenshot 2026-09-152944.png)
+! [Tableau Dashboard](Screenshot%202026-09-152944.png)
