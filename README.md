@@ -32,3 +32,7 @@ The dashboard provides a visual overview of sales performance across different c
 ## Project Purpose
 
 The purpose of this project is to practice data analysis and create an interactive dashboard using Tableau.
+
+
+## Dashboard Preview
+[Tableau Dashboard](Screenshot 2026-09-152944.png)
